@@ -14,5 +14,17 @@ client config: /etc/ssh/ssh_config
 
 man sshd_config
 
+to connect to a server
+ssh root@10.0.1.11
+pwd
+exit
+
+#ssh keygen
+key pairs
+
+
+
+
+
 
 
